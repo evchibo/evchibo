@@ -1,16 +1,91 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**evchibo/evchibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" alt="EVCHIBO — Future in progress" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,45:5221A6,100:00E5FF&text=EVCHIBO&fontColor=FFFFFF&fontSize=76&fontAlignY=38&desc=ENGINEER%20%7C%20BUILDER%20%7C%20FUTURIST&descAlignY=60&animation=fadeIn"/>
 
-Here are some ideas to get you started:
+### `> THE FUTURE IS A WORK IN PROGRESS_`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Designing thoughtful experiences. Engineering resilient systems. Exploring what comes next.**
+
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_CODE-050816?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/evchibo?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/evchibo?style=for-the-badge&label=NETWORK&color=6C2BD9&labelColor=050816)](https://github.com/evchibo?tab=followers)
+
+</div>
+
+---
+
+## `01 / IDENTITY SIGNAL`
+
+```text
+> boot sequence initialized
+> handle: evchibo
+> mode: BUILD · EXPERIMENT · EVOLVE
+> mission: Make complex technology feel effortless.
+> status: ONLINE █
+```
+
+I'm a software developer interested in the space where **software engineering, developer experience, digital infrastructure, and interface design** meet. I build, explore, refactor, and iterate — with curiosity as the constant.
+
+## `02 / TECHNOLOGY MATRIX`
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=00E5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react&logoColor=00E5FF)
+![Node.js](https://img.shields.io/badge/Node.js-0B1020?style=for-the-badge&logo=nodedotjs&logoColor=9D7CFF)
+![Flutter](https://img.shields.io/badge/Flutter-0B1020?style=for-the-badge&logo=flutter&logoColor=00E5FF)
+![Dart](https://img.shields.io/badge/Dart-0B1020?style=for-the-badge&logo=dart&logoColor=9D7CFF)
+![Docker](https://img.shields.io/badge/Docker-0B1020?style=for-the-badge&logo=docker&logoColor=00E5FF)
+![Linux](https://img.shields.io/badge/Linux-0B1020?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+
+</div>
+
+## `03 / PROJECT TRANSMISSIONS`
+
+| Project | Focus |
+| :--- | :--- |
+| [**Frica ID SDK**](https://github.com/evchibo/frica-id-sdk) | Identity integration for JavaScript and TypeScript |
+| [**Frica ID Flutter**](https://github.com/evchibo/frica-id-flutter) | Identity integration for Flutter |
+| [**Developer Tools**](https://github.com/evchibo/dev-tools) | Tools and engineering utilities |
+| [**Flutter Share**](https://github.com/evchibo/flutter_share) | Flutter ecosystem development |
+| [**WebViewX Plus**](https://github.com/evchibo/webviewx_plus) | Cross-platform WebView tooling |
+| [**Cached Video Player**](https://github.com/evchibo/cached_video_player) | Video playback tooling |
+
+*More experiments, projects, and contributions are available in the [repository archive](https://github.com/evchibo?tab=repositories).*
+
+## `04 / LIVE TELEMETRY`
+
+<div align="center">
+
+<img height="170" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=evchibo&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=DCE7F7&icon_color=9D7CFF"/>
+<img height="170" alt="Repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evchibo&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=DCE7F7"/>
+
+<img width="100%" alt="GitHub contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=evchibo&bg_color=050816&color=00E5FF&line=9D7CFF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+<sub>Activity widgets use third-party services and may not reflect private contributions or may occasionally be unavailable.</sub>
+
+## `05 / DESIGN PRINCIPLES`
+
+```yaml
+mindset:
+  - Think in systems
+  - Design for humans
+  - Build for resilience
+  - Keep learning
+  - Ship, observe, improve
+frontiers:
+  - Developer platforms
+  - Secure infrastructure
+  - Cross-platform experiences
+  - Intelligent interfaces
+```
+
+<div align="center">
+
+### `STAY CURIOUS. KEEP BUILDING.`
+
+<img width="100%" alt="Gradient footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,55:6C2BD9,100:050816"/>
+
+</div>
