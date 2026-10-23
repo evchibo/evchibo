@@ -53,18 +53,16 @@ I'm a software developer interested in the space where **software engineering, d
 
 *More experiments, projects, and contributions are available in the [repository archive](https://github.com/evchibo?tab=repositories).*
 
-## `04 / LIVE TELEMETRY`
+## `04 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<img height="170" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=evchibo&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=DCE7F7&icon_color=9D7CFF"/>
-<img height="170" alt="Repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evchibo&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=DCE7F7"/>
-
-<img width="100%" alt="GitHub contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=evchibo&bg_color=050816&color=00E5FF&line=9D7CFF&point=FFFFFF&area=true&hide_border=true"/>
+[![Repositories](https://img.shields.io/badge/VIEW_PUBLIC_REPOSITORIES-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/evchibo?tab=repositories)
+[![Contributions](https://img.shields.io/badge/EXPLORE_CONTRIBUTIONS-0B1020?style=for-the-badge&logo=githubactions&logoColor=B28CFF)](https://github.com/evchibo)
 
 </div>
 
-<sub>Activity widgets use third-party services and may not reflect private contributions or may occasionally be unavailable.</sub>
+GitHub's native contribution calendar appears on [my profile](https://github.com/evchibo) and is the most reliable source of activity data. Dynamic third-party charts are intentionally omitted to avoid broken images.
 
 ## `05 / DESIGN PRINCIPLES`
 
@@ -86,10 +84,8 @@ frontiers:
 
 ### `STAY CURIOUS. KEEP BUILDING.`
 
-<img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/evchibo/evchibo/output/github-snake.svg"/>
+[Contribution animation workflow](https://github.com/evchibo/evchibo/actions/workflows/snake.yml) · The animation will be embedded once its generated output is confirmed available.
 
-<sub>The contribution animation appears after the first successful GitHub Actions run.</sub>
-
-<img width="100%" alt="Gradient footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,55:6C2BD9,100:050816"/>
+<img width="100%" alt="Futuristic footer" src="./assets/futurist-footer.svg"/>
 
 </div>
