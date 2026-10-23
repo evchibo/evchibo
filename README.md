@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="EVCHIBO — Future in progress" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,45:5221A6,100:00E5FF&text=EVCHIBO&fontColor=FFFFFF&fontSize=76&fontAlignY=38&desc=ENGINEER%20%7C%20BUILDER%20%7C%20FUTURIST&descAlignY=60&animation=fadeIn"/>
+<img width="100%" alt="EVCHIBO — futuristic developer identity" src="./assets/futurist-header.svg"/>
 
 ### `> THE FUTURE IS A WORK IN PROGRESS_`
 
@@ -85,6 +85,10 @@ frontiers:
 <div align="center">
 
 ### `STAY CURIOUS. KEEP BUILDING.`
+
+<img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/evchibo/evchibo/output/github-snake.svg"/>
+
+<sub>The contribution animation appears after the first successful GitHub Actions run.</sub>
 
 <img width="100%" alt="Gradient footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,55:6C2BD9,100:050816"/>
 
