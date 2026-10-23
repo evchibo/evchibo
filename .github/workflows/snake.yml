@@ -1,0 +1,29 @@
+name: Contribution Snake
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 3 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: evchibo
+          outputs: |
+            dist/github-snake.svg?color_snake=%2300E5FF&color_dots=%230B1020,%231B2B4D,%234A39A8,%237A56D8,%2300E5FF
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
